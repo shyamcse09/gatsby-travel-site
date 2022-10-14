@@ -9,7 +9,10 @@ phases:
       - 'npm install'    
   build:        
     commands:            
-      - 'npm run build'    
+      - 'npm run build' 
+  post_build:
+    commands:
+      -  '- aws cloudfront create-invalidation --distribution-id={Your CloudFront Distribution Id} --paths '/*''
 artifacts:    
   base-directory: public    
   files:        

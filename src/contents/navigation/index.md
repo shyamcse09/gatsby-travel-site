@@ -3,6 +3,6 @@ title: Navigation
 --- 
 
 - [Home](/)
-- [About](/about)
+- [About Us](/about)
 - [Destinations](/destinations)
-- [Video Gallery](/video_gallery)
+- [Video Galleryies](/video_gallery)
