@@ -8,6 +8,8 @@ type: "location"
 
 Early Boston was a hilly peninsula originally inhabited by the Massachusetts tribe of Native Americans who have lived in the area since 2400 BC. The tribe called the area Shawmut and the nearby river, which is now known as the Charles River, the Quinnebequi.
 
+Early Boston was a hilly peninsula originally inhabited by the Massachusetts tribe of Native Americans who have lived in the area since 2400 BC. The tribe called the area Shawmut and the nearby river, which is now known as the Charles River, the Quinnebequi.
+
 The small peninsula was only 789 acres wide and consisted of three hills that settlers later named Trimount: Mount Vernon, Beacon Hill and Pemberton Hill, as well as two other hills they named Copp’s Hill and Fort Hill.
 
 The entire blooming period can last up to 14 days, which includes the days leading up to peak bloom. The National Park Service (NPS) annually predicts the official peak bloom and shares details on its website, which also indicates that “it is nearly impossible to give an accurate forecast much more than 10 days before the peak bloom.” The best viewing of the cherry blossom trees typically lasts four to seven days after peak bloom begins, but the blossoms can last for up to two weeks under ideal conditions.
